@@ -2,3 +2,6 @@
 tmp
 .log.gz
 summary_ip_*.txt
+
+# クレデンシャルデータ
+env.txt
