@@ -1,0 +1,28 @@
+{
+        "properties" : {
+          "date" : {
+            "type": "date",
+            "format" : "YYYYMMdd_HHZ"
+          },
+          "ip" : {
+            "type" : "string",
+            "index" : "not_analyzed"
+          },
+          "contry" : {
+            "type" : "string",
+            "index" : "not_analyzed"
+          },
+          "count" : {
+            "type" : "integer"
+          },
+          "netname" : {
+            "type" : "string",
+            "index" : "not_analyzed"
+          },
+          "organization" : {
+            "type" : "string",
+            "index" : "not_analyzed"
+          }
+        }
+
+}

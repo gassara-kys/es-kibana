@@ -1,0 +1,4 @@
+# 一時ファイル系
+tmp
+.log.gz
+summary_ip_*.txt
