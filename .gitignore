@@ -4,4 +4,4 @@ tmp
 summary_ip_*.txt
 
 # クレデンシャルデータ
-env.txt
+env.sh
